@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: 0%;
+}
+div.parent{
+    background-color: #2b2b2b;
+    color: white;
+    width: 80%;
+    height: 130px;
+    margin: 40px auto;
+    border-radius: 19px;
+    box-shadow: 7px 7px 7px #2b2b2b;
+}
+div.parent>h1{
+    text-align: center;
+}
+div.parent>p{
+    text-align: center;
+}
+div.parent>a{
+    background-color: white;
+    color: #2b2b2b;
+    border-radius: 19px;
+    margin: 20px auto;
+    display: block;
+    width: 65px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+}
